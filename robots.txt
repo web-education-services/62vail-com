@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://62vail.com/sitemap.xml
